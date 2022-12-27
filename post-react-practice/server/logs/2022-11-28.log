@@ -1,0 +1,60 @@
+2022-11-28 12:32:00 [Winston 연습 어플리케이션] info: Post:id
+2022-11-28 12:32:00 [Winston 연습 어플리케이션] info: 
+2022-11-28 12:34:10 [undefined] info: undefined
+2022-11-28 12:34:10 [undefined] info: 
+2022-11-28 12:34:32 [undefined] info: 1
+2022-11-28 12:34:32 [undefined] info: 
+2022-11-28 12:34:44 [undefined] info: 1
+2022-11-28 12:34:44 [undefined] info: 
+2022-11-28 12:35:30 [undefined] info: 1
+2022-11-28 12:35:30 [undefined] info: 
+2022-11-28 12:35:30 [undefined] info: 1
+2022-11-28 12:35:30 [undefined] info: 
+2022-11-28 12:35:35 [undefined] info: 1
+2022-11-28 12:35:35 [undefined] info: 
+2022-11-28 12:35:35 [undefined] info: [object Object]
+2022-11-28 12:36:13 [undefined] info: 1
+2022-11-28 12:36:13 [undefined] info: 
+2022-11-28 12:36:13 [undefined] info: {"id":2,"title":"코딩 하고 싶어요","body":"test","author":"리액트 어린이"}
+2022-11-28 12:36:54 [undefined] info: 1
+2022-11-28 12:36:54 [undefined] info: 
+2022-11-28 12:36:54 [undefined] info: {"id":2,"title":"코딩 하고 싶어요","body":"test","author":"리액트 어린이"}
+2022-11-28 12:36:54 [undefined] info: object
+2022-11-28 12:38:22 [undefined] info: [object Object]
+2022-11-28 12:38:22 [undefined] info: [object Object]
+2022-11-28 12:38:22 [undefined] info: [object Object]
+2022-11-28 12:38:22 [undefined] info: 1
+2022-11-28 12:38:22 [undefined] info: 
+2022-11-28 12:38:22 [undefined] info: {"id":2,"title":"코딩 하고 싶어요","body":"test","author":"리액트 어린이"}
+2022-11-28 12:38:22 [undefined] info: object
+2022-11-28 12:38:41 [undefined] info: {"id":1,"title":"벌크업 어떻게 함?","body":"test","author":"삼분할 매니아"}
+2022-11-28 12:38:41 [undefined] info: {"id":2,"title":"코딩 하고 싶어요","body":"test","author":"리액트 어린이"}
+2022-11-28 12:38:41 [undefined] info: {"id":3,"title":"코딩 하고 싶어요","body":"test","author":"리액트 어린이"}
+2022-11-28 12:38:41 [undefined] info: 1
+2022-11-28 12:38:41 [undefined] info: 
+2022-11-28 12:38:41 [undefined] info: {"id":2,"title":"코딩 하고 싶어요","body":"test","author":"리액트 어린이"}
+2022-11-28 12:38:41 [undefined] info: object
+2022-11-28 12:39:34 [undefined] info: string
+2022-11-28 12:39:34 [undefined] info: {"id":1,"title":"벌크업 어떻게 함?","body":"test","author":"삼분할 매니아"}
+2022-11-28 12:39:34 [undefined] info: {"id":2,"title":"코딩 하고 싶어요","body":"test","author":"리액트 어린이"}
+2022-11-28 12:39:34 [undefined] info: {"id":3,"title":"코딩 하고 싶어요","body":"test","author":"리액트 어린이"}
+2022-11-28 12:39:34 [undefined] info: 1
+2022-11-28 12:39:34 [undefined] info: 
+2022-11-28 12:39:34 [undefined] info: {"id":2,"title":"코딩 하고 싶어요","body":"test","author":"리액트 어린이"}
+2022-11-28 12:39:34 [undefined] info: object
+2022-11-28 12:40:53 [undefined] info: string
+2022-11-28 12:40:53 [undefined] info: {"id":"1","title":"벌크업 어떻게 함?","body":"test","author":"삼분할 매니아"}
+2022-11-28 12:40:53 [undefined] info: {"id":"2","title":"코딩 하고 싶어요","body":"test","author":"리액트 어린이"}
+2022-11-28 12:40:53 [undefined] info: {"id":"3","title":"코딩 하고 싶어요","body":"test","author":"리액트 어린이"}
+2022-11-28 12:40:53 [undefined] info: 1
+2022-11-28 12:40:53 [undefined] info: [object Object]
+2022-11-28 12:40:53 [undefined] info: {"id":"2","title":"코딩 하고 싶어요","body":"test","author":"리액트 어린이"}
+2022-11-28 12:40:53 [undefined] info: object
+2022-11-28 12:41:24 [undefined] info: {"id":"1","title":"벌크업 어떻게 함?","body":"test","author":"삼분할 매니아"}
+2022-11-28 12:41:24 [undefined] info: {"id":"2","title":"코딩 하고 싶어요","body":"test","author":"리액트 어린이"}
+2022-11-28 12:41:24 [undefined] info: {"id":"3","title":"코딩 하고 싶어요","body":"test","author":"리액트 어린이"}
+2022-11-28 12:41:24 [undefined] info: [{"id":"1","title":"벌크업 어떻게 함?","body":"test","author":"삼분할 매니아"}]
+2022-11-28 12:42:06 [undefined] info: {"id":"1","title":"벌크업 어떻게 함?","body":"test","author":"삼분할 매니아"}
+2022-11-28 12:42:06 [undefined] info: {"id":"2","title":"코딩 하고 싶어요","body":"test","author":"리액트 어린이"}
+2022-11-28 12:42:06 [undefined] info: {"id":"3","title":"코딩 하고 싶어요","body":"test","author":"리액트 어린이"}
+2022-11-28 12:42:06 [undefined] info: [{"id":"1","title":"벌크업 어떻게 함?","body":"test","author":"삼분할 매니아"}]

@@ -1,0 +1,370 @@
+2022-11-28 13:46:44 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:12:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 13:46:59 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:13:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 13:47:14 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:13:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 13:47:30 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:13:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 13:47:37 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:13:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 13:48:02 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:13:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 13:48:03 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:13:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 13:48:15 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:13:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 13:48:21 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:13:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 13:49:10 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:13:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 13:49:18 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:13:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 13:50:25 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:13:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 13:51:13 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:13:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 13:51:44 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:13:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 13:51:47 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:13:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 13:52:10 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:13:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 13:52:16 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:13:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 13:52:30 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:13:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 13:52:36 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:13:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 13:53:01 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:13:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 13:53:58 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:16:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 13:54:07 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:22:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 13:54:28 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:22:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 13:54:47 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:22:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 14:02:58 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:22:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 14:03:29 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:22:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 14:03:40 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:22:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 14:03:47 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:22:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 14:03:51 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:22:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 14:04:19 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:22:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 14:04:44 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:22:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 14:04:57 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:22:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 14:05:03 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:22:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 14:05:08 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:22:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 14:05:51 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:22:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 14:07:00 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:22:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-11-28 14:08:49 [undefined] error: uncaughtException: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+Error: Most middleware (like cookieParser) is no longer bundled with Express and must be installed separately. Please see https://github.com/senchalabs/connect#middleware.
+    at Function.get (/Users/kiseok/Documents/study/REACT/alone/server/node_modules/express/lib/express.js:112:13)
+    at Object.<anonymous> (/Users/kiseok/Documents/study/REACT/alone/server/index.js:22:17)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+    at Module.load (node:internal/modules/cjs/loader:998:32)
+    at Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47

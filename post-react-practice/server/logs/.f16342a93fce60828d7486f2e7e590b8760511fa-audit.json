@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/Users/kiseok/Documents/study/REACT/alone/post/logs/.f16342a93fce60828d7486f2e7e590b8760511fa-audit.json",
+    "files": [
+        {
+            "date": 1669606268640,
+            "name": "/Users/kiseok/Documents/study/REACT/alone/post/logs/2022-11-28.log",
+            "hash": "b7d5177f2d2a56946723967c97a2489bb073fe339d0b789f3c3aa9a15e4292be"
+        }
+    ],
+    "hashType": "sha256"
+}

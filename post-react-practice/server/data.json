@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "벌크업 어떻게 함?",
+      "body": " — I'll be in your neighborhood doing errands this…",
+      "username": "삼분할 매니아"
+    },
+    {
+      "id": "2",
+      "title": "코딩 하고 싶어요",
+      "body": " — I'll be in your neighborhood doing errands this…",
+      "username": "리액트 어린이"
+    },
+    {
+      "id": "3",
+      "title": "코딩 하고 싶어요",
+      "body": " — I'll be in your neighborhood doing errands this…",
+      "username": "리액트 어린이"
+    }
+  ],
+  "comments": [
+    {
+      "id": "2",
+      "body": "크레아틴 먹으셈 일단",
+      "postId": "1"
+    },
+    {
+      "id": "3",
+      "body": "삼대 몇치냐",
+      "postId": "1"
+    },
+    {
+      "id": 4,
+      "body": "더티푸드가 답이다",
+      "postId": "1"
+    }
+  ]
+}
